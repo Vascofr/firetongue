@@ -456,7 +456,7 @@ Then at runtime you can call:
 
 ```haxe
 var oldfont = "verdana";
-var newfont = tongue.getFont(oldfont);  //returns "comicsans"
+var newfont = tongue.getFont(oldfont);  //returns "arial"
 
 var oldsize = 12;
 var newsize = tongue.getFontSize(oldsize); //returns 14
